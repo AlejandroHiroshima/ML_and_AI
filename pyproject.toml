@@ -1,7 +1,7 @@
 [project]
 name = "ml-and-ai"
 version = "0.1.0"
-description = "Add your description here"
+description = "Learning AI and machinelearning at STI - Data engineer program"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
@@ -9,4 +9,5 @@ dependencies = [
     "ipykernel>=7.1.0",
     "matplotlib>=3.10.7",
     "pandas>=2.3.3",
+    "pydantic>=2.12.4",
 ]
