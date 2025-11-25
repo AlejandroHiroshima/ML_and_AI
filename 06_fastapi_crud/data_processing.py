@@ -19,5 +19,10 @@ class Library(BaseModel):
     name: str
     books: list[Book]
 
+def library_data(filename):
+    json_data = read_json(filename)
+    return Library(**json_data)
+
 if __name__ == '__main__':
     pprint(read_json("library.json"))
+    print(repr(library_data("library.json")))
