@@ -21,7 +21,6 @@ if __name__ == '__main__':
     bot = JokeBot()
 
     result = bot.chat("Hello there")
-
     result = bot.chat("tell me a math joke")
     result = bot.chat("What did I ask you first?")
     print(result)
