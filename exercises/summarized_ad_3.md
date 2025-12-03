@@ -1,1 +1,8 @@
-NOBA Bank Group is hiring an Engineering Manager in Stockholm to lead a 5-engineer team focused on customer onboarding for their Nordax brand. The role involves daily delivery leadership, strategic input, full-stack development (C#/.NET, React, SQL), team coaching, and recruitment. Candidates need 7+ years in software development, 3+ years with JavaScript (React), and 2+ years of formal leadership experience. The company offers a collaborative, growth-oriented culture.
+**Engineering Manager at NOBA Bank Group (Stockholm)**
+
+NOBA Bank Group is seeking an Engineering Manager for a Software Engineering team in Stockholm.
+
+*   **Role:** Lead a team of 5 engineers focusing on customer onboarding for Nordax (secure loans), driving deliveries and technical direction.
+*   **Responsibilities:** Leadership & coaching, cross-team collaboration, ensuring business objectives, technical leadership (full-stack), process improvement, and recruitment.
+*   **Required Skills:** 7+ years C#/.NET, 3+ years modern JavaScript (React preferred), 2+ years formal leadership, Microsoft dev stack, SQL, English fluency.
+*   **Company Culture:** Emphasizes freedom, career development, feedback, coaching leadership, and a caring environment. Values include being wholehearted, collaborative, and taking the lead.

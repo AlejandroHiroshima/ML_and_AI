@@ -1,1 +1,15 @@
-This role is for a Data Center Engineering Operations Technician with Amazon in Västerås, Sweden. You will be responsible for the operation and maintenance of mission-critical electrical, mechanical, HVAC, and fire/life safety systems in data centers, ensuring high availability. The job involves monitoring, troubleshooting, assisting contractors, and site walk-throughs, requiring 2+ years of relevant experience, an EU driving license, and 24x7 shift availability.
+Here's a short summary of the job description:
+
+**Data Center Engineering Operations Technician, Amazon Data Services Sweden AB (AWS Infrastructure Services)**
+
+This role involves ensuring the 24/7 availability and reliability of mission-critical data center facilities in Vasteras, Sweden, and other locations.
+
+**Key Responsibilities:**
+*   Operate and maintain electrical, mechanical, HVAC, and fire/life safety equipment.
+*   Monitor, troubleshoot, and respond to incidents for all data center systems.
+*   Assist with equipment deployment, site walkthroughs, and contractor coordination.
+
+**Qualifications:**
+*   2+ years electrical, mechanical, or controls experience (degree/trade preferred).
+*   Valid EU driving license and ability to work 24x7 shifts.
+*   Experience in heavy industry or data centers, and knowledge of electrical/mechanical systems are a plus.
